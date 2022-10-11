@@ -1,3 +1,3 @@
 # financial-analysis
 
-Tracking Python financial work
+Python scripts I'm creating to help with my financial analysis, technical analysis, and macroeconomic exploration.
